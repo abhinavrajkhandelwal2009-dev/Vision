@@ -1,0 +1,6 @@
+{
+  "name": "VisionIntelligence AI",
+  "description": "Enterprise Computer Vision & Visual Intelligence Platform for automated defect detection, safety hazard identification, and compliance inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
